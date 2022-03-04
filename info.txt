@@ -1,0 +1,44 @@
+
+logo-vs-new:
+https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/logo-vs-new.svg
+
+
+
+
+fonts
+
+font-family: 'Newsreader', serif;
+font-family: 'Work Sans', sans-serif;
+
+
+menu__principal: workSansMedium;
+titulo__conheca-nossos-produtos: newsReaderMedium;
+titulo__instagram: workSansSimiBold;
+titulo__siga-a-gente: newsReaderMedium;
+buttons: workSansBold;
+titulo__nossa-historia: newsReaderMedium;
+texto__nossa-historia: workSansRegular;
+titulos__article-rosa: newsReaderMedium;
+textos__article-rosa: workSansRegular;
+link__article-rosa-titulo-cadastro: workSansRegular;
+article-notificacoes__titulo-cadastrar :newsReaderMedium;
+article-notificacoes__aceitar-notificacoes: workSansRegular;
+footer__textos-e-links: workSansRegular;
+footer__titulos: newsReaderMedium;
+
+
+
+
+
+
+
+icones article:
+
+icone__fidelidade: https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/icon-1.svg
+icone__bacio-card: https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/icon-4.svg
+icone__termos: https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/icon-5.svg
+icone__como-se-cadastrar: https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/icon-2.svg
+icone__diferentes-niveis: https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/icon-6.svg
+icone__central-de-ajuda: https://baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/icon-7.svg
+
+
