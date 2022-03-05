@@ -1,0 +1,61 @@
+.cabecalho {
+    width: 100%;
+    height: 8.5rem;
+
+    box-sizing: border-box;
+}
+
+.oferta__gelato-container {
+    text-align: center;
+
+    background-color: #fff3e6;
+
+    height: 3.2rem;
+
+    box-sizing: border-box;
+
+    margin-right: 1rem;
+}
+
+.oferta__gelato-container a {
+    display: block;
+    
+    padding: 1.1rem 0;
+
+    text-transform: uppercase;
+    font-family: 'Work Sans', sans-serif;
+    font-size: .8em;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(34, 54, 228);
+    letter-spacing: -0.3px;    
+}
+.oferta__gelato-container p {
+    color: #000;
+}
+.oferta__gelato-container a:hover {
+    text-decoration: underline;
+    
+}
+
+.menu__fixo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    max-width: 80%;
+    margin: auto;
+
+    margin-top: .88rem;
+}
+
+.menu__fixo ul {
+    display: flex;
+}
+.menu__fixo li {
+    padding: .8em .6em;
+}
+.menu__fixo a {
+    font-family: 'Work Sans', sans-serif;
+    color: #4e4e56;
+}
