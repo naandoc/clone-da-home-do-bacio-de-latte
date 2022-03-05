@@ -1,0 +1,65 @@
+.carrossel {
+    overflow: hidden;
+}
+
+.carrossel ul {
+    display: flex;
+}
+
+.carrossel img {
+    min-width: 100vw;
+    max-height: 25em;
+}
+
+.carrossel li {
+    position: relative;
+
+    animation: slide 20s infinite ease-out;
+}
+
+@keyframes slide {
+    0% {
+        left: 0px
+    }
+
+    19% {
+        left: 0px;
+    }
+
+    20% {
+        left: -100vw
+    }
+
+    39% {
+        left: -100vw;
+    }
+
+    40% {
+        left: -200vw
+    }
+
+    59% {
+        left: -200vw
+    }
+
+    60% {
+        left: -300vw
+    }
+
+    79% {
+        left: -300vw
+    }
+
+    80% {
+        left: -400vw;
+    }
+
+    99% {
+        left: -400vw
+    }
+
+    100% {
+        left: 0px;
+    }
+
+}
