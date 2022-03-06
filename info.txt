@@ -27,7 +27,24 @@ footer__textos-e-links: workSansRegular;
 footer__titulos: newsReaderMedium;
 
 
-
+.bg-one {
+background: url(//baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/bg-one-new.png);
+}
+.bg-two {
+background: url(//baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/bg-two-new-2.png);
+}
+.bg-three {
+background: url(//baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/bg-three-new-2.png);
+}
+.bg-four {
+background: url(//baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/bg-four-new-1.png);
+}
+.bg-five {
+background: url(//baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/bg-five-new-1.png);
+}
+.bg-six {
+background: url(//baciodilatte.com.br/wp-content/themes/baciodilatte/assets/images/bg-six-new.png);
+}
 
 
 
